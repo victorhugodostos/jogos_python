@@ -1,6 +1,7 @@
 # jogos_python
 Jogos criados apenas com Python. Jogo da forca e Jogo de Adivinhação;
 
-Para rodar os jogos, selecione o módulo "Jogo.py"
+Para rodar os jogos, faça download de todos os arquivos e
+inicie o módulo "Jogos.py".
 
-e divirta-se!
+Divirta-se!
